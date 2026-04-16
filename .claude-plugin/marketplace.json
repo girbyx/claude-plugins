@@ -15,7 +15,7 @@
         "repo": "girbyx/harvester"
       },
       "description": "Automate Harvest time tracking. Capture session work into journal files, review, and sync to Harvest API. Separate skills for setup, log, status, sync, and special days (PTO/sick/holiday).",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "girbyx",
         "url": "https://github.com/girbyx"
