@@ -1,0 +1,29 @@
+{
+  "name": "girbyx",
+  "metadata": {
+    "description": "Claude Code plugin marketplace by girbyx."
+  },
+  "owner": {
+    "name": "girbyx",
+    "url": "https://github.com/girbyx"
+  },
+  "plugins": [
+    {
+      "name": "harvester",
+      "source": {
+        "source": "github",
+        "repo": "girbyx/harvester"
+      },
+      "description": "Automate Harvest time tracking. Capture session work into journal files, review, and sync to Harvest API. Separate skills for setup, log, status, sync, and special days (PTO/sick/holiday).",
+      "version": "1.0.0",
+      "author": {
+        "name": "girbyx",
+        "url": "https://github.com/girbyx"
+      },
+      "homepage": "https://github.com/girbyx/harvester",
+      "repository": "https://github.com/girbyx/harvester",
+      "license": "MIT",
+      "keywords": ["harvest", "time-tracking", "productivity", "timesheet", "automation"]
+    }
+  ]
+}
